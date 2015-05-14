@@ -1,6 +1,6 @@
 {
   "name": "@evanlucas/bumpit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bump versions for package.json, bower.json, and git",
   "main": "./lib/index.js",
   "bin": {
