@@ -2,6 +2,8 @@
 
 Bump versions for package.json, bower.json, and git
 
+![ss](https://raw.githubusercontent.com/evanlucas/bumpit/master/ss.png)
+
 ## Install
 
 ```bash
