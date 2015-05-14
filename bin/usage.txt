@@ -1,0 +1,12 @@
+bumpit - utility to bump versions in package.json, bower.json, and git
+
+  usage: bumpit [options] [<newversion> | major | minor | patch]
+
+  options:
+
+    -h, --help                show help and usage
+    -v, --version             show version
+    -l, --loglevel <level>    set loglevel
+    -g, --git                 bump git version
+    -b, --bower               bump bower version
+    -f, --force               non-interactive

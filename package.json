@@ -1,0 +1,23 @@
+{
+  "name": "@evanlucas/bumpit",
+  "version": "0.0.0",
+  "description": "Bump versions for package.json, bower.json, and git",
+  "main": "./lib/index.js",
+  "bin": {
+    "bumpit": "./bin/cmd.js"
+  },
+  "keywords": [
+    "bump",
+    "versions"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "help": "~2.0.0",
+    "inquirer": "~0.4.0",
+    "nopt": "~3.0.1",
+    "npmlog": "0.0.6",
+    "semver": "~2.2.1",
+    "slide": "~1.1.5"
+  }
+}
