@@ -15,7 +15,7 @@
   "dependencies": {
     "help": "~2.0.0",
     "inquirer": "~0.4.0",
-    "nopt": "~3.0.1",
+    "nopt": "~3.0.2",
     "npmlog": "0.0.6",
     "semver": "~2.2.1",
     "slide": "~1.1.5"
